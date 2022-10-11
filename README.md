@@ -1,5 +1,3 @@
-
-
 👋 Hi there, I’m Adebola
 👀 I’m skilled at SQL, PowerBI and Excel
 🌱 I’m currently learning python
